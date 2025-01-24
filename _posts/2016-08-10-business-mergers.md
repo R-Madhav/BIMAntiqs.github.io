@@ -10,7 +10,7 @@ large_header: false
 
 The construction industry is undergoing a transformation, with Building Information Modeling (BIM) at the forefront. BIM is not just 3D modeling; it’s a comprehensive process that streamlines collaboration, enhances design accuracy, and improves project outcomes.
 
-What is BIM?
+<strong>What is BIM?</strong>
 
 BIM is much more than 3D modeling software. It is a comprehensive process that creates and manages digital representations of the physical and functional characteristics of a building. These digital models serve as shared resources, enabling seamless collaboration among architects, engineers, contractors, and other stakeholders throughout the project lifecycle.
 
