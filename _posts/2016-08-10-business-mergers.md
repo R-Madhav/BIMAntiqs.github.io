@@ -18,7 +18,7 @@ BIM is much more than 3D modeling software. It is a comprehensive process that c
 
 ### KEY BENEFITS OF BIM
 
-<li><strong>Improved Collaboration</strong>: A centralized platform enables teams to work seamlessly, minimizing miscommunication.</li>
+<li><strong>Improved Collaboration</strong>: A centralized platform enables teams to work seamlessly,                  minimizing miscommunication.</li>
 <li><strong>Clash Detection</strong>: Identifies conflicts early, reducing costly rework and delays.</li>
 <li><strong>Time and Cost Efficiency</strong>: Integrates 4D (scheduling) and 5D (costing) for precise planning.</li>
 <li><strong>Enhanced Visualization</strong>: Detailed 3D models ensure designs align with client expectations.</li>
