@@ -18,8 +18,7 @@ BIM is much more than 3D modeling software. It is a comprehensive process that c
 
 ### KEY BENEFITS OF BIM
 
-<li><strong>Improved Collaboration</strong>: A centralized platform enables teams to work seamlessly, 
-  minimizing miscommunication.</li>
+<li><strong>Improved Collaboration</strong>: A centralized platform enables teams to work seamlessly, minimizing miscommunication.</li>
 <li><strong>Clash Detection</strong>: Identifies conflicts early, reducing costly rework and delays.</li>
 <li><strong>Time and Cost Efficiency</strong>: Integrates 4D (scheduling) and 5D (costing) for precise planning.</li>
 <li><strong>Enhanced Visualization</strong>: Detailed 3D models ensure designs align with client expectations.</li>
@@ -35,14 +34,11 @@ Looking ahead, BIM will continue to integrate with cutting-edge technologies suc
 
 ### EMERGING TRENDS IN BIM
 
-<li><Strong>Integration with Artificial Intelligence (AI)</Strong></li>
-AI is transforming BIM by automating tasks such as clash detection, material optimization, and risk assessment. Predictive analytics powered by AI enables project teams to make informed, data-driven decisions.
+<Strong>Integration with Artificial Intelligence (AI)</Strong>: AI is transforming BIM by automating tasks such as clash detection, material optimization, and risk assessment. Predictive analytics powered by AI enables project teams to make informed, data-driven decisions.
 
-<li><strong>Digital Twins</strong></li>
-BIM is increasingly being used to create digital twins—virtual replicas of physical structures. These digital models enable real-time monitoring, predictive maintenance, and lifecycle management.
+<strong>Digital Twins</strong>: BIM is increasingly being used to create digital twins—virtual replicas of physical structures. These digital models enable real-time monitoring, predictive maintenance, and lifecycle management.
 
-<li><strong>Augmented Reality (AR) and Virtual Reality (VR)</strong></li>
-AR and VR enhance BIM by offering immersive visualization experiences. Stakeholders can virtually walk through models, improving understanding and enabling quicker approvals.
+<strong>Augmented Reality (AR) and Virtual Reality (VR)</strong>: AR and VR enhance BIM by offering immersive visualization experiences. Stakeholders can virtually walk through models, improving understanding and enabling quicker approvals.
 
 The five most common ways to value a business are
 
