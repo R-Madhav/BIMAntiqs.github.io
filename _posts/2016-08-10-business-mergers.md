@@ -1,14 +1,14 @@
 ---
-title: Business Mergers
-date: 2016-08-10 00:00:00
+title: The Future of Construction
+date: 2024-07-11 00:00:00
 categories:
   - Business
-author_staff_member: jane-doe
+author_staff_member: Madhav Ribinwala
 image: "https://unsplash.it/600/450?image=737&a=.png"
 large_header: false
 ---
 
-Mergers and acquisitions are transactions in which the ownership of companies, other business organizations or their operating units are transferred or combined.
+The construction industry is undergoing a transformation, with Building Information Modeling (BIM) at the forefront. BIM is not just 3D modeling; it’s a comprehensive process that streamlines collaboration, enhances design accuracy, and improves project outcomes.
 
 From a legal point of view, a merger is a legal consolidation of two entities into one entity, whereas an acquisition occurs when one entity takes ownership of another entity's stock, equity interests or assets. From a commercial and economic point of view, both types of transactions generally result in the consolidation of assets and liabilities under one entity, and the distinction between a "merger" and an "acquisition" is less clear. A transaction legally structured as a merger may have the effect of placing one party's business under the indirect ownership of the other party's shareholders, while a transaction legally structured as an acquisition may give each party's shareholders partial ownership and control of the combined enterprise. A deal may be euphemistically called a "merger of equals" if both CEOs agree that joining together is in the best interest of both of their companies, while when the deal is unfriendly (that is, when the management of the target company opposes the deal) it may be regarded as an "acquisition".
 
