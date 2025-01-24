@@ -18,11 +18,11 @@ BIM is much more than 3D modeling software. It is a comprehensive process that c
 
 ### KEY BENEFITS OF BIM
 
-<strong>Improved Collaboration</strong>: A centralized platform enables teams to work seamlessly, minimizing miscommunication.
-<strong>Clash Detection</strong>: Identifies conflicts early, reducing costly rework and delays.
-<strong>Time and Cost Efficiency</strong>: Integrates 4D (scheduling) and 5D (costing) for precise planning.
-<strong>Enhanced Visualization</strong>: Detailed 3D models ensure designs align with client expectations.
-<strong>Sustainability</strong>: Optimizes material use, reduces waste, and supports eco-friendly designs.
+<li><strong>Improved Collaboration</strong>: A centralized platform enables teams to work seamlessly, minimizing miscommunication.</li>
+<li><strong>Clash Detection</strong>: Identifies conflicts early, reducing costly rework and delays.</li>
+<li><strong>Time and Cost Efficiency</strong>: Integrates 4D (scheduling) and 5D (costing) for precise planning.</li>
+<li><strong>Enhanced Visualization</strong>: Detailed 3D models ensure designs align with client expectations.</li>
+<li><strong>Sustainability</strong>: Optimizes material use, reduces waste, and supports eco-friendly designs.</li>
 
 Achieving acquisition success has proven to be very difficult, while various studies have shown that 50% of acquisitions were unsuccessful. "Serial acquirers" appear to be more successful with M&A than companies who only make an acquisition occasionally (see Douma & Schreuder, 2013, chapter 13). The new forms of buy out created since the crisis are based on serial type acquisitions known as an ECO Buyout which is a co-community ownership buy out and the new generation buy outs of the MIBO (Management Involved or Management & Institution Buy Out) and MEIBO (Management & Employee Involved Buy Out).
 
