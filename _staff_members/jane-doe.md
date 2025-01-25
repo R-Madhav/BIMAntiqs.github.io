@@ -1,7 +1,7 @@
 ---
-name: Jane Doe
+name: Madhav Ribinwala
 image: "//placekitten.com/440/440?a=.png"
-credentials: LLB
+credentials: Founder at BIMAntiqs, BIM Specialist, Civil Engineer
 phone_extension: "02"
 ---
 
