@@ -40,4 +40,4 @@ Looking ahead, BIM will continue to integrate with cutting-edge technologies suc
 
 <strong>Augmented Reality (AR) and Virtual Reality (VR)</strong>: AR and VR enhance BIM by offering immersive visualization experiences. Stakeholders can virtually walk through models, improving understanding and enabling quicker approvals.
 
-Source: [ISO 19650 BIM Standards](https://www.iso.org/standard/70303.html), [McKinsey Report: The Next Normal in Construction](https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/the-next-normal-in-construction).
+Source: [ISO 19650 BIM Standards](https://www.iso.org/standards.html), [McKinsey Report: The Next Normal in Construction](https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/the-next-normal-in-construction).
