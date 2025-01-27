@@ -39,6 +39,7 @@ defaults:
       layout: page
       background_image_path: /uploads/building.jpg
       image: /uploads/building.jpg
+      about_image: /images/Logo.png
   -
     scope:
       path: ""
