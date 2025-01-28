@@ -4,7 +4,7 @@ date: 2024-07-11 00:00:00
 categories:
   - Business
 author_staff_member: Madhav Ribinwala
-image: /images/Madhav.JPG
+image: /images/Future Construction.png
 large_header: false
 ---
 
