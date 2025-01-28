@@ -4,7 +4,7 @@ date: 2025-01-26 00:00:00
 categories:
   - BIM is a Game Changer
 author_staff_member: Madhav Ribinwala
-image: "https://unsplash.it/600/450?image=448&a=.png"
+image: /images/BIM Benefits.png
 large_header: false
 ---
 
