@@ -4,7 +4,7 @@ date: 2024-07-11 00:00:00
 categories:
   - Business
 author_staff_member: Madhav Ribinwala
-image: "https://unsplash.it/600/450?image=737&a=.png"
+image: /images/Madhav.JPG
 large_header: false
 ---
 
