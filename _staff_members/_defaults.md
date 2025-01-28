@@ -1,6 +1,6 @@
 ---
 name:
-image: "https://placehold.it/440/440?a=.png"
+image: /images/Madhav.png
 credentials:
 phone_extension:
 ---
