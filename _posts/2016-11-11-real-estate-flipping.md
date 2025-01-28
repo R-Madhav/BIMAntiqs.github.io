@@ -37,7 +37,7 @@ As the construction industry embraces digital transformation, the use of BIM is 
 
 At BIMantiqs, we specialize in delivering tailored BIM solutions that help our clients save time and money while achieving superior project outcomes. Let us help you unlock the full potential of BIM for your next project.
 
-![](https://unsplash.it/960/350?image=655){: width="960" height="350"}
+![]( /images/LookingBIM.png){: width="960" height="350"}
 
 #### References:
 
