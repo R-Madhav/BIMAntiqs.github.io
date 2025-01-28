@@ -30,7 +30,7 @@ As BIM adoption grows, it is becoming a global standard for modern construction.
 
 Looking ahead, BIM will continue to integrate with cutting-edge technologies such as IoT (Internet of Things) and robotics to create smarter, more connected construction workflows. The ultimate goal is a fully integrated construction ecosystem where all stakeholders work in harmony to deliver projects faster, better, and more sustainably.
 
-![](https://unsplash.it/960/350?image=864){: width="960" height="350"}
+![]( /images/Blog BIM Future.png){: width="960" height="350"}
 
 ### EMERGING TRENDS IN BIM
 
