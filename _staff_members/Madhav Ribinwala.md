@@ -1,6 +1,6 @@
 ---
 name: Madhav Ribinwala
-image: /images/Madhav.JPG
+image: https://r-madhav.github.io/BIMAntiqs.github.io/images/Madhav.JPG
 credentials: Founder at BIMAntiqs, BIM Specialist, Civil Engineer
 phone_extension:
 ---
