@@ -25,7 +25,7 @@ In today’s competitive construction landscape, time and cost management are cr
 <li><strong>Material Optimization:</strong> BIM calculates exact material requirements, reducing waste and promoting sustainability. Efficient material usage directly translates to cost savings.</li>
 </ol>
 
-![]( /images/CostControl.png){: width="960" height="350"}
+![](https://r-madhav.github.io/BIMAntiqs.github.io/images/CostControl.png){: width="960" height="350"}
 
 #### Real-World Impact of BIM
 
@@ -37,7 +37,7 @@ As the construction industry embraces digital transformation, the use of BIM is 
 
 At BIMantiqs, we specialize in delivering tailored BIM solutions that help our clients save time and money while achieving superior project outcomes. Let us help you unlock the full potential of BIM for your next project.
 
-![]( /images/LookingBIM.png){: width="960" height="350"}
+![](https://r-madhav.github.io/BIMAntiqs.github.io/images/LookingBIM.png){: width="960" height="350"}
 
 #### References:
 
