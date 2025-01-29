@@ -1,9 +1,7 @@
 ---
 name: Madhav Ribinwala
 image: https://r-madhav.github.io/BIMAntiqs.github.io/images/Madhav.JPG
-credentials: 
-  <span style="color: #999999;">Founder at BIMAntiqs</span><br>
-  <span style="color: #cccccc;">BIM Specialist, Civil Engineer</span>
+credentials:   <span style="color: #999999;">Founder at BIMAntiqs</span><br>, <li<<span style="color: #cccccc;">BIM Specialist, Civil Engineer</span></li>
 phone_extension: 
 ---
 
