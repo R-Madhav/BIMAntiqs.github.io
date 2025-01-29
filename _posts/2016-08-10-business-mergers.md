@@ -14,7 +14,7 @@ The construction industry is undergoing a transformation, with Building Informat
 
 BIM is much more than 3D modeling software. It is a comprehensive process that creates and manages digital representations of the physical and functional characteristics of a building. These digital models serve as shared resources, enabling seamless collaboration among architects, engineers, contractors, and other stakeholders throughout the project lifecycle.
 
-![]( /images/BIM.png){: width="960" height="350"}
+![](https://r-madhav.github.io/BIMAntiqs.github.io/images/BIM.png){: width="960" height="350"}
 
 ### KEY BENEFITS OF BIM
 
